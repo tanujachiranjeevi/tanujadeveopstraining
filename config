@@ -1,0 +1,6 @@
+git init
+git config -- global.user.email"mailid"
+git config --global.user.name"name"
+git config --list
+git --version
+
