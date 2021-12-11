@@ -4,9 +4,16 @@ git config --global.user.name"name"
 git config --list
 git --version
 
+
 git branch
 git branch branchname
 git checkout branchname
 git push origin branchname
+
+touch filename
+git add .
+git commit -m 
+git log 
+git show
 
 
