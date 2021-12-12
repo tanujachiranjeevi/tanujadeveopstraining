@@ -1,0 +1,8 @@
+git clone url
+ls
+cd (name)
+touch filename
+git add .
+git commit -m
+git push
+
