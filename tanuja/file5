@@ -1,0 +1,9 @@
+git branch list
+git branch branchname
+git checkout branchname
+git checkout -b branchname
+git cherry-pick branchname
+git branch -d branchname
+git push origin branchname
+git push origin-d branchname
+
