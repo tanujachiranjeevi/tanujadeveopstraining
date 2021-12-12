@@ -1,0 +1,7 @@
+git tag
+git tag tagname
+git tag -d tagname
+git push origin tagname
+git push --tag
+git push origin -d tagname
+
