@@ -1,0 +1,8 @@
+touch filename
+ls
+git add .
+git status
+git commit -m"label"
+git log 
+git show cid
+
