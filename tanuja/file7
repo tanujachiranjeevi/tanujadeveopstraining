@@ -1,0 +1,20 @@
+git stash list
+git stash save "label"
+git stash show stashid
+git stash show -p stashid
+pop apply copy
+git stash pop
+git stash apply
+git stash drop
+
+
+alias
+git config --gloabal alias.s "status"
+
+
+amend
+git commit --amend -m "label"
+
+fetch 
+git pull =git fetch + git merge
+
